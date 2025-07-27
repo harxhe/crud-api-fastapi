@@ -1,10 +1,10 @@
-# 🚀 FastAPI CRUD API with PostgreSQL
+# FastAPI CRUD API with PostgreSQL
 
 This is a simple backend API built using **FastAPI** and **PostgreSQL**, created as part of a workshop hosted by IEEE Computer Society - VIT. It demonstrates basic **Create, Read, Update, and Delete (CRUD)** operations on a PostgreSQL database.
 
 ---
 
-## 📦 Features
+## Features
 
 - RESTful API endpoints for CRUD operations
 - PostgreSQL integration using SQLAlchemy ORM
@@ -13,7 +13,7 @@ This is a simple backend API built using **FastAPI** and **PostgreSQL**, created
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer              | Technology     | Purpose                                               |
 |--------------------|----------------|--------------------------------------------------------|
